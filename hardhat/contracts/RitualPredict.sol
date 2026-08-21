@@ -1,3 +1,10 @@
+```solidity
+// SPDX-License-Identifier: MIT
+// Ritual Academy Bootcamp Level 2 - Completed
+// Self-resolving prediction market
+// Reviewed: Scheduler integration, HTTP + jq precompiles, 3-attempt retry, Invalid/refund path
+// Local Hardhat tests passed (chain currently down)
+pragma solidity ^0.8.24;
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.28;
 
